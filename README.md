@@ -3,8 +3,9 @@ Count Min Sketch dimensioning examples for P4-based telemetry scenarios
 
 
 
-%This repository contains the code for the theoretical examples of our paper:
+This repository contains the code for the theoretical examples of our paper:
 
-%JA Hernandez, D Scano, F Cugini, G Martínez, O Gonzalez de Dios: "On dimensioning Count-Min sketches for telemetry and resource assignment in multiband networks", presented in EuCNC 2023.
+JA Hernandez, D Scano, F Cugini, G Martínez, N. Koneva, A. Sanchez-Macian, O Gonzalez de Dios: "Count-Min sketches for Telemetry: analysis of
+performance in P4 implementation", submitted to ONDM 2024.
 
 
